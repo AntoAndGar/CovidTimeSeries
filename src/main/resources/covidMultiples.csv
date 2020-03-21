@@ -25,6 +25,7 @@ data,stato,number,label
 2020-03-18,ITA,14363,ricoverati_con_sintomi
 2020-03-19,ITA,15757,ricoverati_con_sintomi
 2020-03-20,ITA,16020,ricoverati_con_sintomi
+2020-03-21,ITA,17708,ricoverati_con_sintomi
 2020-02-24,ITA,26,terapia_intensiva
 2020-02-25,ITA,35,terapia_intensiva
 2020-02-26,ITA,36,terapia_intensiva
@@ -51,6 +52,7 @@ data,stato,number,label
 2020-03-18,ITA,2257,terapia_intensiva
 2020-03-19,ITA,2498,terapia_intensiva
 2020-03-20,ITA,2655,terapia_intensiva
+2020-03-21,ITA,2857,terapia_intensiva
 2020-02-24,ITA,127,totale_ospedalizzati
 2020-02-25,ITA,150,totale_ospedalizzati
 2020-02-26,ITA,164,totale_ospedalizzati
@@ -77,6 +79,7 @@ data,stato,number,label
 2020-03-18,ITA,16620,totale_ospedalizzati
 2020-03-19,ITA,18255,totale_ospedalizzati
 2020-03-20,ITA,18675,totale_ospedalizzati
+2020-03-21,ITA,20565,totale_ospedalizzati
 2020-02-24,ITA,94,isolamento_domiciliare
 2020-02-25,ITA,162,isolamento_domiciliare
 2020-02-26,ITA,221,isolamento_domiciliare
@@ -103,6 +106,7 @@ data,stato,number,label
 2020-03-18,ITA,12090,isolamento_domiciliare
 2020-03-19,ITA,14935,isolamento_domiciliare
 2020-03-20,ITA,19185,isolamento_domiciliare
+2020-03-21,ITA,22116,isolamento_domiciliare
 2020-02-24,ITA,221,totale_attualmente_positivi
 2020-02-25,ITA,311,totale_attualmente_positivi
 2020-02-26,ITA,385,totale_attualmente_positivi
@@ -129,6 +133,7 @@ data,stato,number,label
 2020-03-18,ITA,28710,totale_attualmente_positivi
 2020-03-19,ITA,33190,totale_attualmente_positivi
 2020-03-20,ITA,37860,totale_attualmente_positivi
+2020-03-21,ITA,42681,totale_attualmente_positivi
 2020-02-24,ITA,221,nuovi_attualmente_positivi
 2020-02-25,ITA,90,nuovi_attualmente_positivi
 2020-02-26,ITA,74,nuovi_attualmente_positivi
@@ -155,6 +160,7 @@ data,stato,number,label
 2020-03-18,ITA,2648,nuovi_attualmente_positivi
 2020-03-19,ITA,4480,nuovi_attualmente_positivi
 2020-03-20,ITA,4670,nuovi_attualmente_positivi
+2020-03-21,ITA,4821,nuovi_attualmente_positivi
 2020-02-24,ITA,1,dimessi_guariti
 2020-02-25,ITA,1,dimessi_guariti
 2020-02-26,ITA,3,dimessi_guariti
@@ -181,6 +187,7 @@ data,stato,number,label
 2020-03-18,ITA,4025,dimessi_guariti
 2020-03-19,ITA,4440,dimessi_guariti
 2020-03-20,ITA,5129,dimessi_guariti
+2020-03-21,ITA,6072,dimessi_guariti
 2020-02-24,ITA,7,deceduti
 2020-02-25,ITA,10,deceduti
 2020-02-26,ITA,12,deceduti
@@ -207,6 +214,7 @@ data,stato,number,label
 2020-03-18,ITA,2978,deceduti
 2020-03-19,ITA,3405,deceduti
 2020-03-20,ITA,4032,deceduti
+2020-03-21,ITA,4825,deceduti
 2020-02-24,ITA,229,totale_casi
 2020-02-25,ITA,322,totale_casi
 2020-02-26,ITA,400,totale_casi
@@ -233,6 +241,7 @@ data,stato,number,label
 2020-03-18,ITA,35713,totale_casi
 2020-03-19,ITA,41035,totale_casi
 2020-03-20,ITA,47021,totale_casi
+2020-03-21,ITA,53578,totale_casi
 2020-02-24,ITA,4324,tamponi
 2020-02-25,ITA,8623,tamponi
 2020-02-26,ITA,9587,tamponi
@@ -259,3 +268,4 @@ data,stato,number,label
 2020-03-18,ITA,165541,tamponi
 2020-03-19,ITA,182777,tamponi
 2020-03-20,ITA,206886,tamponi
+2020-03-21,ITA,233222,tamponi

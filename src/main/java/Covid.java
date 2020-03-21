@@ -40,16 +40,16 @@ public class Covid {
 
         new Covid().generateMultiTimeSeries("src/main/resources/covidMultiples.csv");
 
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "totale_casi");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "ricoverati_con_sintomi");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "terapia_intensiva");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "totale_ospedalizzati");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "isolamento_domiciliare");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "totale_attualmente_positivi");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "nuovi_attualmente_positivi");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "dimessi_guariti");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "deceduti");
-//        new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "tamponi");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "totale_casi");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "ricoverati_con_sintomi");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "terapia_intensiva");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "totale_ospedalizzati");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "isolamento_domiciliare");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "totale_attualmente_positivi");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "nuovi_attualmente_positivi");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "dimessi_guariti");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "deceduti");
+       new Covid().generateSingleTimeSeries("src/main/resources/covid.csv", "tamponi");
 
     }
 }
