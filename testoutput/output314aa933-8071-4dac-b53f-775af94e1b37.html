@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Covid terapia_intensiva</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id='target' ></div>
+        <script>
+        var target_target = document.getElementById('target');
+        var layout = {
+    title: 'Covid terapia_intensiva',
+    height: 600,
+    width: 800,
+    xaxis: {
+    title: 'data',
+    },
+
+    yaxis: {
+    title: 'terapia_intensiva',
+    },
+
+};
+
+var trace0 =
+{
+x: ["2020-02-24T18:00","2020-02-25T18:00","2020-02-26T18:00","2020-02-27T18:00","2020-02-28T18:00","2020-02-29T18:00","2020-03-01T18:00","2020-03-02T18:00","2020-03-03T18:00","2020-03-04T18:00","2020-03-05T18:00","2020-03-06T18:00","2020-03-07T18:00","2020-03-08T18:00","2020-03-09T18:00","2020-03-10T18:00","2020-03-11T17:00","2020-03-12T17:00","2020-03-13T17:00","2020-03-14T17:00","2020-03-15T17:00","2020-03-16T17:00","2020-03-17T17:00","2020-03-18T17:00","2020-03-19T17:00","2020-03-20T17:00","2020-03-21T17:00","2020-03-22T17:00","2020-03-23T17:00"],
+y: ["26","35","36","56","64","105","140","166","229","295","351","462","567","650","733","877","1028","1153","1328","1518","1672","1851","2060","2257","2498","2655","2857","3009","3204"],
+mode: 'lines',
+xaxis: 'x',
+yaxis: 'y',
+type: 'scatter',
+name: '',
+};
+
+        var data = [ trace0];
+Plotly.newPlot(target_target, data, layout);            </script>
+
+</body>
+</html>
